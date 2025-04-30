@@ -29,7 +29,7 @@ Before you begin, ensure you have the following installed:
 - npm or yarn
 - API Key from [NewsAPI.org](https://newsapi.org) or any news provider
 
-## 📁 Folder Structure
+## Screenshots
 ![Screenshot 2025-04-29 013742](https://github.com/user-attachments/assets/abf91560-54ce-4578-99d0-e07da771715e)
 
 
